@@ -19,9 +19,9 @@ public class Bus {
 
 
     public void addPassenger(Person person){
-        if (this.capacity > 0) {
+        if (this.capacity > this.busList.size()) {
             this.busList.add(person);
-            int newCapacity = this.capacity -= 1;
+            System.out.println(this.busList.size());
         }
     }
 
