@@ -452,7 +452,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549977456077" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549977596166" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -493,6 +493,14 @@
       <updated>1549976478720</updated>
     </task>
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BusTest - 2019.02.12 at 13h 13m 53s.xml">
+      <configuration name="BusTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BusTest - 2019.02.12 at 13h 17m 39s.xml">
+      <configuration name="BusTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="705" extended-state="6" />

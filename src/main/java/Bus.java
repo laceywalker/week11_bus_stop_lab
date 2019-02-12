@@ -19,4 +19,8 @@ public class Bus {
     public void addPassenger(Person person){
         this.busList.add(person);
     }
+
+    public void removePassenger(){
+        this.busList.remove(0);
+    }
 }
