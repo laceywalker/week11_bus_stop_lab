@@ -4,13 +4,16 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class BusTest {
+
     Bus bus;
+    Bus bus2;
     Person person;
 
 
     @Before
     public void before(){
         bus = new Bus("Waverly", 10);
+        bus2 = new Bus("Leith",0);
         person = new Person();
     }
 
@@ -22,7 +25,7 @@ public class BusTest {
     @Test
     public void canAddPassenger(){
         bus.addPassenger(person);
-        assertEquals(1, bus.getPassengers());
+        assertEquals(1,bus.getPassengers());
     }
 
     @Test
