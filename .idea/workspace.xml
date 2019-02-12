@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3f576df-e201-4b87-9533-2be0d9d813b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Bus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/BusTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/BusTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusStop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusStop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BusStopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusStopTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -42,12 +39,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2321" />
+          <entry key="java" value="2756" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2321" />
+          <entry key="JAVA" value="2756" />
         </counts>
       </usages-collector>
     </session>
@@ -66,26 +63,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/BusStop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="127">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BusStop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/BusStopTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="304">
+              <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -406,10 +403,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/BusTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Bus.java" />
-        <option value="$PROJECT_DIR$/src/test/java/BusStopTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BusTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/BusStop.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BusStopTest.java" />
       </list>
     </option>
   </component>
@@ -477,7 +474,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549981280549" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549981389028" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -533,15 +530,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BusTest - 2019.02.12 at 13h 43m 06s.xml">
-      <configuration name="BusTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BusTest - 2019.02.12 at 13h 44m 29s.xml">
-      <configuration name="BusTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BusTest - 2019.02.12 at 13h 52m 33s.xml">
-      <configuration name="BusTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BusTest - 2019.02.12 at 13h 53m 03s.xml">
       <configuration name="BusTest" configurationId="JUnit" />
     </history-entry>
@@ -562,6 +550,15 @@
     </history-entry>
     <history-entry file="BusTest - 2019.02.12 at 14h 12m 14s.xml">
       <configuration name="BusTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BusStopTest - 2019.02.12 at 14h 18m 17s.xml">
+      <configuration name="BusStopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BusStopTest - 2019.02.12 at 14h 21m 23s.xml">
+      <configuration name="BusStopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BusStopTest - 2019.02.12 at 14h 22m 53s.xml">
+      <configuration name="BusStopTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -618,22 +615,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/BusTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BusStopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="127">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BusStop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="315">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BusStopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
         </state>
       </provider>
     </entry>
